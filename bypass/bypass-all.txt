@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: кайф
 #profile-web-page-url: https://github.com/whoahaow/rjsxrd
-#announce: t.me/rjsxrd · 642 configs · last update: 04:06 30/09/2026
+#announce: t.me/rjsxrd · 642 configs · last update: 04:06 30/09/2067
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 кайф
