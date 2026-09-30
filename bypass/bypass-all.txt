@@ -1,4 +1,4 @@
-#profile-title: bypass-all t.me/rjsxrd
+#profile-title: KAIF
 #profile-update-interval: 1
 #support-url: https://t.me/rjsxrd
 #profile-web-page-url: https://github.com/whoahaow/rjsxrd
